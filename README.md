@@ -1,3 +1,13 @@
+# Pics from Unsplash
+
+## Description
+
+This is a basic project made with React for studying purposes.
+
+It shows a search bar where user can search images. The term entered by the user is used to fetch images from unsplash. Those images are shown using css grid.
+
+This app is shown in the course Modern React with Redux by Stephen Grinder at Udemy (https://www.udemy.com/course/react-redux/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
